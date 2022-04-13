@@ -3,10 +3,10 @@
         {
             "number": 1,
             "name": "Faze",
-            "ip": "194.61.3.167",
-            "port": 11661,
+            "ip": "54.38.117.77",
+            "port": 1175,
             "online": 0,
-            "maxplayers": 120,
+            "maxplayers": 500,
             "password": false,
             "plotPoints": [
                 {
